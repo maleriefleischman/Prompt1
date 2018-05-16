@@ -66,5 +66,5 @@ else {
 	
 	
 	}
-	
+//add the values of the X and Y axis to figure out how many blocks away the destination is	
 alert('x' + String(Xaxis) + 'y' + String(Yaxis) + 'equals' + String( Math.abs(Xaxis) + Math.abs(Yaxis) ) ) 
